@@ -1,0 +1,24 @@
+
+
+
+Router 2
+Router(config)#router ospf 1
+Router(config-router)#router-id 2.2.2.2
+Router(config-router)#network 30.0.0.0 0.0.0.255 area 10
+Router(config-router)#network 10.0.0.0 0.0.0.255 area 10
+Router(config-router)#end
+
+
+Router1:
+Router(config)#router ospf 1
+Router(config-router)#router-i
+Router(config-router)#router-id 1.1.1.1
+Router(config-router)#network 20.0.0.0 0.0.0.255 area 10
+Router(config-router)#network 30.0.0.0 0.0.0.255 area 10
+
+Router3
+Router(config-router)#router-id 3.3.3.3
+Router(config-router)#net
+Router(config-router)#network 10.0.0.0 0.0.0.255 a
+Router(config-router)#network 10.0.0.0 0.0.0.255 area 10
+Router(config-router)#network 10.0.0.0 0.0.0.255 area 10
