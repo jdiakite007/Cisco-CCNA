@@ -6,7 +6,7 @@
 
 ## 📖 Description
 
-Ce lab met en place un réseau local segmenté en **deux VLAN**. Un switch Cisco 2960 (SW1) relie quatre PC et un routeur (Router0). Le routeur assure le routage entre les VLAN avec la méthode **router-on-a-stick** : un seul lien physique trunk et des sous-interfaces dot1Q.
+Ce lab met en place un réseau local segmenté en **deux VLAN**.     Un switch Cisco 2960 (SW1) relie quatre PC et un routeur (Router0). Le routeur assure le routage entre les VLAN avec la méthode **router-on-a-stick** : un seul lien physique trunk et des sous-interfaces dot1Q.
 
 ## 🗺️ Topologie
 
