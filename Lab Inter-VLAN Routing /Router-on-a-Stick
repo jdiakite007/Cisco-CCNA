@@ -109,11 +109,4 @@ interface fa0/0.20
 - **Pas de trafic via le trunk** : vérifie `switchport trunk allowed vlan` et le mode trunk.
 - **Mauvais VLAN** : contrôle l'affectation des ports avec `show vlan brief`.
 
-## 🧰 Outils
 
-- Cisco Packet Tracer
-- Switch Catalyst 2960, routeur Router-PT
-
-## 👤 Auteur
-
-Jacob Diakité, étudiant
