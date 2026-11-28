@@ -10,7 +10,7 @@ Ce lab met en place un réseau local segmenté en **deux VLAN**. Un switch Cisco
 
 ## 🗺️ Topologie
 
-![Topologie du lab](images/topologie.jpg)
+![Topologie du lab](images/Router_On_Stick.jpg)
 
 | Équipement | Interface | Rôle |
 |---|---|---|
