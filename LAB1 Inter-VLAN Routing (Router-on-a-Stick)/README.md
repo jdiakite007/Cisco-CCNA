@@ -1,4 +1,4 @@
-# 🔀 Lab Inter-VLAN Routing (Router-on-a-Stick)
+# 🔀 Inter-VLAN Routing (Router-on-a-Stick)
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7)
 ![Niveau](https://img.shields.io/badge/Niveau-D%C3%A9butant-green)
